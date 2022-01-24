@@ -34,7 +34,7 @@ My Minishell Score
 [![deustach's 42Project Score](https://badge42.herokuapp.com/api/project/deustach/minishell)](https://github.com/JaeSeoKim/badge42)
 
 My CPP01 Score
-[![deustach's 42Project Score](https://badge42.herokuapp.com/api/project/deustach/cpp01)](https://github.com/JaeSeoKim/badge42)
+[![deustach's 42Project Score](https://badge42.herokuapp.com/api/project/deustach/CPP01)](https://github.com/JaeSeoKim/badge42)
 
 My Ft_inception Score
 [![deustach's 42Project Score](https://badge42.herokuapp.com/api/project/deustach/ft_inception)](https://github.com/JaeSeoKim/badge42)

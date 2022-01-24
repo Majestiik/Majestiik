@@ -6,6 +6,12 @@ My 42 School Profil
 My Libft Score
 [![deustach's 42Project Score](https://badge42.herokuapp.com/api/project/deustach/Libft)](https://github.com/JaeSeoKim/badge42)
 
+My Netwhat
+[![deustach's 42Project Score](https://badge42.herokuapp.com/api/project/deustach/netwhat)](https://github.com/JaeSeoKim/badge42)
+
+My Ft_server
+[![deustach's 42Project Score](https://badge42.herokuapp.com/api/project/deustach/ft_server)](https://github.com/JaeSeoKim/badge42)
+
 My Ft_printf Score
 [![deustach's 42Project Score](https://badge42.herokuapp.com/api/project/deustach/ft_printf)](https://github.com/JaeSeoKim/badge42)
 
@@ -26,6 +32,18 @@ My Philosophers Score
 
 My Minishell Score
 [![deustach's 42Project Score](https://badge42.herokuapp.com/api/project/deustach/minishell)](https://github.com/JaeSeoKim/badge42)
+
+My CPP01 Score
+[![deustach's 42Project Score](https://badge42.herokuapp.com/api/project/deustach/cpp_01)](https://github.com/JaeSeoKim/badge42)
+
+My Inception Score
+[![deustach's 42Project Score](https://badge42.herokuapp.com/api/project/deustach/inception)](https://github.com/JaeSeoKim/badge42)
+
+My Ft_containers Score
+[![deustach's 42Project Score](https://badge42.herokuapp.com/api/project/deustach/ft_containers)](https://github.com/JaeSeoKim/badge42)
+
+My Ft_irc Score
+[![deustach's 42Project Score](https://badge42.herokuapp.com/api/project/deustach/ft_irc)](https://github.com/JaeSeoKim/badge42)
 
 <!--
 **Majestiik/Majestiik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
